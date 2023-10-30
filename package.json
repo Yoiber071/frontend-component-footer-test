@@ -1,6 +1,6 @@
 {
-  "name": "@edx/frontend-component-footer",
-  "version": "1.0.0-semantically-released",
+  "name": "@testnau/frontend-component-footer",
+  "version": "1.0.0",
   "description": "Footer component for use when building Open edX frontend applications",
   "main": "dist/index.js",
   "publishConfig": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/frontend-component-footer.git"
+    "url": "git+https://github.com/Yoiber071/frontend-component-footer-test.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
