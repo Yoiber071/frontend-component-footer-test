@@ -9,7 +9,7 @@ module.exports = createConfig('webpack-dev', {
   },
   resolve: {
     alias: {
-      '@edx/frontend-component-footer': path.resolve(__dirname, 'src'),
+      '@testnau/frontend-component-footer': path.resolve(__dirname, 'src'),
     },
   },
 });
